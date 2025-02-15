@@ -1,6 +1,6 @@
 ### TIENDA EN LINEA API
 
-##ENDPOINTS
+###ENDPOINTS
 
 Ruta	Funcionalidad
 GET /api/productos	Mostrar todos los productos
